@@ -1,0 +1,100 @@
+[
+  {
+    "id": "PROD_1",
+    "product_title": "Lady Shoe",
+    "product_price": "1500",
+    "product_description": "This is a sample product description.",
+    "image_path": "/uploads/product-1744297380147.png"
+  },
+  {
+    "id": "PROD_2",
+    "product_title": "Men Shoe",
+    "product_price": "5000",
+    "product_description": "This is another sample product description.",
+    "image_path": "/uploads/product-1744297403279.png"
+  },
+  {
+    "id": "PROD_1714367009230_540",
+    "product_title": "Lady Shoe",
+    "product_price": "2540",
+    "product_description": "new product title new product description",
+    "image_path": "/uploads/product-1744297409734.png"
+  },
+  {
+    "id": "PROD_1714367464554_841",
+    "product_title": "Lady Shoe",
+    "product_price": "5000",
+    "product_description": "product description new",
+    "image_path": "/uploads/product-1744297416241.png"
+  },
+  {
+    "id": "PROD_1714372688739_780",
+    "product_title": "Baby Shoe",
+    "product_price": "5000",
+    "product_description": "This is a sample description",
+    "image_path": "/uploads/product-1744297426984.png"
+  },
+  {
+    "id": "PROD_1740151381325_581",
+    "product_title": "Men Shoe",
+    "product_price": "1000",
+    "product_description": "This is sample description",
+    "image_path": "/uploads/product-1744297438649.png"
+  },
+  {
+    "id": "PROD_1740152357934_234",
+    "product_title": "Lady Shoe",
+    "product_price": "1000",
+    "product_description": "This is sample description",
+    "image_path": "/uploads/product-1744297449835.png"
+  },
+  {
+    "id": "PROD_1740152386050_754",
+    "product_title": "Men Shoe",
+    "product_price": "1000",
+    "product_description": "This is sample description",
+    "image_path": "/uploads/product-1744297467588.png"
+  },
+  {
+    "id": "PROD_1740152413314_763",
+    "product_title": "Lady Shoe",
+    "product_price": "1000",
+    "product_description": "This is sample description",
+    "image_path": "/uploads/product-1744297479389.png"
+  },
+  {
+    "id": "PROD_1740152966691_460",
+    "product_title": "Men Shoe",
+    "product_price": "5000",
+    "product_description": "This is sample description",
+    "image_path": "/uploads/product-1744297487829.png"
+  },
+  {
+    "id": "PROD_1740152990146_700",
+    "product_title": "Baby Shoe",
+    "product_price": "4000",
+    "product_description": "This is sample description",
+    "image_path": "/uploads/product-1744297496350.png"
+  },
+  {
+    "id": "PROD_1740153067344_262",
+    "product_title": "Lady Shoe",
+    "product_price": "1000",
+    "product_description": "This is sample description",
+    "image_path": "/uploads/product-1744297503255.png"
+  },
+  {
+    "id": "PROD_1740207178666_255",
+    "product_title": "Baby Shoe",
+    "product_price": "1000",
+    "product_description": "This is sample description",
+    "image_path": "/uploads/product-1744297511671.png"
+  },
+  {
+    "id": "PROD_1740208876964_835",
+    "product_title": "Men Shoe",
+    "product_price": "1500",
+    "product_description": "This is sample description",
+    "image_path": "/uploads/product-1744297522180.png"
+  }
+]
