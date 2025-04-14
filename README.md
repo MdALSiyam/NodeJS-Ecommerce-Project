@@ -1,7 +1,7 @@
 ## 📸 Project Output
 
-![Node 1](Outputs/node1.png)
 ![Node 2](Outputs/node2.png)
+![Node 1](Outputs/node1.png)
 ![Node 3](Outputs/node3.png)
 ![Node 4](Outputs/node4.png)
 ![Node 5](Outputs/node5.png)
